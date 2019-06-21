@@ -1,0 +1,21 @@
+.hero-bkg-animated {
+  background:gray url(../../assets/img/image8.jpg) repeat 0 0;
+  width:100%;
+  margin:0;
+  text-align:center;
+  height:100px;
+  padding-top:30px;
+  padding-left:30px;
+  color:black;
+  box-sizing:border-box;
+  -webkit-animation:slide 20s linear infinite;
+}
+
+.hero-bkg-animated h1 {
+  font-family:sans-serif;
+}
+
+.textcss {
+  opacity:1.0!important;
+}
+
